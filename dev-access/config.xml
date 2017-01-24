@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<!-- IMP: 
+		1. Give absolute path where DevWill is placed. Dont place \ at last
+	-->
+    <devwill_path>F:\Old_SystemFiles\MyStuff\Projects\DevWill</devwill_path>
+</root>
